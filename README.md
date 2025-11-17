@@ -1,4 +1,3 @@
-BodhVerse
 🌟 BodhVerse – A Digital Gateway to Bodh Gaya
 
 A modern, interactive, and intelligent web portal designed to bring Bodh Gaya’s heritage, culture, tourism, and pilgrimage experience into a single immersive digital platform.
